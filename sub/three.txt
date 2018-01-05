@@ -1,0 +1,1 @@
+A third small text file stored in the sub directory.
